@@ -5,6 +5,6 @@ each are marked like this
 
 after original item name:
 
-_1 = LIGHT
-_2 = BLUE
-_3 = DARK
+_1 = LIGHT 
+_2 = BLUE 
+_3 = DARK 
